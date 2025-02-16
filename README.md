@@ -18,7 +18,7 @@ I love solving problems, optimizing UI/UX, and building **dynamic, interactive w
 
 ## 📫 **Connect with Me**  
 LinkedIn - https://www.linkedin.com/in/chidambara-h-n-8021602a2/  
-Portfolio - https://lambent-youtiao-704f7b.netlify.app/
+Portfolio - https://ft34-213.github.io/Portfolio/
 GitHub - https://github.com/ft34-213
 
 ⭐ **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
