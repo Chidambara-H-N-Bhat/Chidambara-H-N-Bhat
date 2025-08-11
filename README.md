@@ -18,11 +18,6 @@ I love solving problems, optimizing UI/UX, and building **dynamic, interactive w
 
    2.React Web Page(https://project-pied-gamma.vercel.app/) - Developed a responsive web page replica of React.
 
-   Github Repo :
-   https://github.com/masai-course/chidambara_h_n_cap12_115/commit/32973420956fba42163ceb6923e9eaf5ebca8443#diff-9c61c6cc1f97f26e1e3bcd9ed8c91650cdd5d3ba2f5fab536473d9e64942377b
-
-
-
 ## 📫 **Connect with Me**  
 LinkedIn - https://www.linkedin.com/in/chidambara-h-n-8021602a2/  
 Portfolio - https://portfolio-ten-mauve-rre3pjvp4t.vercel.app/
