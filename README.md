@@ -4,7 +4,7 @@
 
 I transitioned from being a **Lab Technician at HUL** to a **Full Stack Developer** because of my deep passion for coding. I completed my **Full-Stack Web Development course at Masai School**, where I mastered **HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB**.  
 
-I love solving problems, optimizing UI/UX, and building **dynamic, interactive web applications**. Currently, I'm expanding my skills with **Next.js, system design and DSA**.  
+I love solving problems, optimizing UI/UX, and building **dynamic, interactive web applications**. Currently, I'm expanding my skills with ** system design and DSA**.  
 
 ## 🚀 **Tech Stack & Skills**  
 ### **Frontend: HTML, CSS, Javascript, React** 
