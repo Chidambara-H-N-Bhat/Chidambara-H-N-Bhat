@@ -7,9 +7,9 @@ I transitioned from being a **Lab Technician at HUL** to a **Full Stack Develope
 I love solving problems, optimizing UI/UX, and building **dynamic, interactive web applications**. Currently, I'm expanding my skills with ** system design and DSA**.  
 
 ## 🚀 **Tech Stack & Skills**  
-### **Frontend: HTML, CSS, Javascript, React** 
+### **Frontend: HTML, CSS, Javascript, React, tailwindCSS, Redux** 
 
-### **Backend: Node.js, Express.js, MongoDB**  
+### **Backend: Node.js, Express.js, MongoDB, python, Django**  
 
 ### **Tools & Others:Git, Github, Netlify and vite**   
 
